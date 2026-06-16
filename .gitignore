@@ -1,0 +1,6 @@
+docs/
+output/
+scripts/
+tmp/
+.DS_Store
+.obsidian/workspace*.json
